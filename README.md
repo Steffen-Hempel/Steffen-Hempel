@@ -1,5 +1,5 @@
-- 👋 Hey there! I’m Steffen, a tech enthusiast diving deep into the world of Generative AI and low-code development.
-- 🚀 Passionate about leveraging GenAI for real-world applications and empowering others to create with minimal code.
+- 👋 Hey there! I’m Steffen, a tech enthusiast and AI Engineer diving deep into the world of AI development.
+- 🚀 Passionate about leveraging GenAI for real-world applications and empowering others to create.
 
 
 <!---
